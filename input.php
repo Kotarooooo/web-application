@@ -35,7 +35,7 @@
                 <label>性別<span>必須</span></label>
                 <input type="radio" name="sex" value="男性" checked> 男性
                 <input type="radio" name="sex" value="女性"> 女性
-                <input type="radio" name="another" value="その他"> その他
+                <input type="radio" name="other" value="その他"> その他
                 
             </div>
             <div>
@@ -44,6 +44,8 @@
                     <option value="">お問い合わせ項目を選択してください</option>
                     <option value="ご質問・お問い合わせ">ご質問・お問い合わせ</option>
                     <option value="ご意見・ご感想">ご意見・ご感想</option>
+                    <option value="complain">ご不満</option>
+                    <option value="other">その他</option>
                 </select>
             </div>
             <div>
