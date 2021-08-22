@@ -35,7 +35,7 @@
                 <label>性別<span>必須</span></label>
                 <input type="radio" name="sex" value="男性" checked> 男性
                 <input type="radio" name="sex" value="女性"> 女性
-                <input type="radio" name="sex" value="その他"> その他
+                <input type="radio" name="another" value="その他"> その他
                 
             </div>
             <div>
