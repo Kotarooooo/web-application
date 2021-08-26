@@ -7,7 +7,7 @@
 </head>
 <body>
   <header>
-    <h1 class="title">ヘッダー</h1>
+    <h1 class="title">空白ナッシングにしたい!</h1>
     <nav class="nav">
       <ul class="menu-group">
         <li class="menu-item"><a href="#">項目1</a></li>
