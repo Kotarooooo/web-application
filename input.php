@@ -2,6 +2,22 @@
 <html lang="ja">
 <head>
 <meta charset="UTF-8">
+<title>Header Sample</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1 class="title">空白ナッシングにしたい!</h1>
+    <nav class="nav">
+      <ul class="menu-group">
+        <li class="menu-item"><a href="#">項目1</a></li>
+        <li class="menu-item"><a href="#">項目2</a></li>
+        <li class="menu-item"><a href="#">項目3</a></li>
+        <li class="menu-item"><a href="#">項目4</a></li>
+        <li class="menu-item"><a href="#">項目5</a></li>
+      </ul>
+    </nav>
+  </header>
 <title>お問い合わせフォーム</title>
 <link rel="stylesheet" href="style.css">
 <script type="text/javascript" src="contact.js"></script>
